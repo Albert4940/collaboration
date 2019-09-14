@@ -1,1 +1,3 @@
-var hello="Hello codepath";
+
+var hello="Bonjour";
+AndroidButon BtnConflict;
