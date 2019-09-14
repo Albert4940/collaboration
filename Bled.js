@@ -1,1 +1,1 @@
-String Bled bled;
+String Bled.js sup
